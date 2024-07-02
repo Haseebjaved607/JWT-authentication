@@ -1,4 +1,3 @@
-
 import express from "express"
 import connectDb from "./config/db.js";
 import router from "./routes/user.js";
